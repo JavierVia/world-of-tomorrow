@@ -87,7 +87,7 @@ msgstr "Desafortunadamente muchos servicios online sufren debido a esta falta de
 
 #: src/App.js:377
 msgid "We won’t reach this world of the future alone. Join us in making it."
-msgstr ""
+msgstr "No alcanzaremos este mundo del futuro solos. Únete a nosotros para hacerlo."
 
 #: src/App.js:312
 msgid "What about using stakes to enforce promises? Imagine an app that allows a man to stake on a date. For 24 hours she has the power to indiscriminately slash the money he has put down, so she’s more likely to believe him when he promises to be a gentleman. This app can be made with Erasure."
@@ -111,4 +111,4 @@ msgstr "impulsado por NMR"
 
 #: src/App.js:356
 msgid "“Erasure solves the problem of bad information online. What would Reddit look like if users had something real to lose for every post, would troll farms be able to manipulate it as easily? What if you could burn a publication’s stake for promoting fake news, or an advertiser for misleading consumers? Can Erasure help manage the threat of deep-fakes? It may be that the only way to distinguish good from bad information online may come down to how much value its creator stakes behind it. That’s the vision of this protocol.”"
-msgstr ""
+msgstr ""Erasure soluciona el problema de la mala información en la red. ¿Cómo sería Reddit si los usuarios tuviesen algo real que perder en cada post? ¿Serían los grupos de trolls capaces de manipularlo tan fácilmente? ¿Qué sucedería si pudieses quemar el stake de una publicación por promover noticias falsas, o a un anunciante por engañar a los consumidores? ¿Puede Erasure ayudar a manejar la amenaza de los deep-fakes? Quizá la única forma de distinguir buena y mala información en la red se reduzca al valor que su creador ponga en stake. Esa es la visión del protocolo.""
